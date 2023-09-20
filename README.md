@@ -24,3 +24,7 @@ JSON           8 mins          █▒░░░░░░░░░░░░░░�
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue.js&logoColor=4FC08D)
+
+#### Learning...
+![cook](https://img.shields.io/badge/cook-v0.0.0-yellow.svg)
+![Halo](https://img.shields.io/badge/Halo-v2.9.0-blue.svg)
