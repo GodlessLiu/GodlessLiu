@@ -7,7 +7,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    - cron: '15 18 * * *'
+    - cron: "15 18 * * *"
 
 jobs:
   update-readme:
@@ -17,6 +17,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          key: ${{ secrets.GH_TOKEN}}
+          GH_TOKEN: ${{ secrets.GH_TOKEN}}
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
