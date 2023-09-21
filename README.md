@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻这周我做了什么:
+####💻 Something i do this week
 
 <!--START_SECTION:waka-->
 
