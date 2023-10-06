@@ -5,15 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-Total Time: 54 mins
+Total Time: 10 mins
 
-YAML         47 mins         ██████████████████████░░░   87.83 %
-Markdown     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-MySQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+YAML       9 mins          ██████████████████████░░░   88.59 %
+Other      0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+MySQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
