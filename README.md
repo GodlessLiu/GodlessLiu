@@ -5,14 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Total Time: 10 mins
+Total Time: 0 secs
 
-YAML       9 mins          ██████████████████████░░░   88.59 %
-Other      0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-MySQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
