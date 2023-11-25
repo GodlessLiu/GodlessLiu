@@ -5,11 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2023 - To: 24 November 2023
+From: 18 November 2023 - To: 25 November 2023
 
-Total Time: 0 secs
+Total Time: 11 mins
 
-No activity tracked
+JavaScript   9 mins          ██████████████████████▒░░   89.31 %
+JSON         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
 ```
 
 <!--END_SECTION:waka-->
