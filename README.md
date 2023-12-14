@@ -29,5 +29,4 @@ CSS          21 mins         ▒░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodlessLiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Learning...
-![cook](https://img.shields.io/badge/cook-v0.0.0-yellow.svg)
-![Halo](https://img.shields.io/badge/Halo-v2.9.0-blue.svg)
+![react](https://img.shields.io/badge/react-18-blue.svg)
