@@ -26,7 +26,7 @@ CSS          13 mins         ▒░░░░░░░░░░░░░░░░
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue.js&logoColor=4FC08D)
-![react](https://img.shields.io/badge/react-blue.svg)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React.js&logoColor=blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodlessLiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Learning...
