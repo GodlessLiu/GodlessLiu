@@ -32,4 +32,4 @@ CSS          4 mins          ▒░░░░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodlessLiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Learning...
 ![react](https://img.shields.io/badge/react-18-blue.svg)
-![rust](https://img.shields.io/badge/rust-blue.svg)
+![rust](https://img.shields.io/badge/rust-yellow.svg)
