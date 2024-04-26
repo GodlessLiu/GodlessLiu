@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2024 - To: 24 April 2024
+From: 18 April 2024 - To: 25 April 2024
 
-Total Time: 2 hrs 39 mins
+Total Time: 58 mins
 
-TypeScript                 1 hr 26 mins    █████████████▓░░░░░░░░░░░   54.50 %
-Docker                     35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-YAML                       23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Markdown                   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-JavaScript                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Docker                     35 mins         ███████████████░░░░░░░░░░   60.63 %
+YAML                       13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+Markdown                   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+TypeScript                 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+JSON                       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
