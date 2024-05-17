@@ -31,6 +31,7 @@ JSON          16 mins         ▓░░░░░░░░░░░░░░░�
 ![Nuxt](https://img.shields.io/badge/-Nuxt-222222?style=flat&logo=nuxt.js&logoColor=green)
 ![Vim](https://img.shields.io/badge/-Vim-222222?style=flat&logo=Vim&logoColor=green)
 ![Bun](https://img.shields.io/badge/-Bun-222222?style=flat&logo=Bun&logoColor=fbf0df)
+![Rust](https://img.shields.io/badge/-Rust-222222?style=flat&logo=Rust&logoColor=yellow)
 
 #### Learning...
 ![rust](https://img.shields.io/badge/rust-yellow.svg)
