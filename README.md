@@ -29,7 +29,6 @@ JSON          16 mins         ▓░░░░░░░░░░░░░░░�
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=blue)
 ![Vim](https://img.shields.io/badge/-Vim-222222?style=flat&logo=Vim&logoColor=green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodlessLiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Learning...
 ![react](https://img.shields.io/badge/react-18-blue.svg)
 ![rust](https://img.shields.io/badge/rust-yellow.svg)
