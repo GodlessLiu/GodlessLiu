@@ -34,4 +34,4 @@ JSON          16 mins         ▓░░░░░░░░░░░░░░░�
 ![Rust](https://img.shields.io/badge/-Rust-222222?style=flat&logo=Rust&logoColor=yellow)
 
 #### Learning...
-![rust](https://img.shields.io/badge/rust-yellow.svg)
+![Rust](https://img.shields.io/badge/-Rust-222222?style=flat&logo=Rust&logoColor=yellow)
