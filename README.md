@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Hilary Liu.A front-end engineer.Living in Chengdu.
 
 #### 💻 Something i do this week
 
