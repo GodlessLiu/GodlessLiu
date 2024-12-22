@@ -6,15 +6,15 @@ I am Hilary Liu.A front-end engineer.Living in Chengdu.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2024 - To: 20 December 2024
+From: 14 December 2024 - To: 21 December 2024
 
-Total Time: 4 hrs 43 mins
+Total Time: 6 hrs 21 mins
 
-TypeScript    2 hrs 20 mins   ████████████▒░░░░░░░░░░░░   49.60 %
-JavaScript    1 hr 24 mins    ███████▒░░░░░░░░░░░░░░░░░   29.94 %
-JSON          20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-CSS           17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Other         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Go            1 hr 56 mins    ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+JavaScript    1 hr 47 mins    ███████░░░░░░░░░░░░░░░░░░   28.10 %
+TypeScript    1 hr 19 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+JSON          36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+YAML          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
